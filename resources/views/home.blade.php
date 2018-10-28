@@ -6,7 +6,7 @@
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
 
-                <div class="panel-heading"> MLM APPLICATION <span class="pull-right">
+                <div class="panel-heading"> MLM APPLICATION V1<span class="pull-right">
                     
                         @if($total < 3)
                             <a href="{{action('UserController@index')}}" class="btn btn-sucess btn-xs">Add Down Link</a>
